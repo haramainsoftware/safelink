@@ -1,0 +1,2 @@
+# safelink
+safe our link
